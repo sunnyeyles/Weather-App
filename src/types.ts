@@ -1,4 +1,5 @@
 import { ChangeEvent, MouseEvent } from "react";
+
 export interface WeatherResponse {
   main: {
     temp: number;
